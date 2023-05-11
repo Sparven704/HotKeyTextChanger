@@ -12,11 +12,11 @@ function updateHotkeyText()
 				--Modifiers
 				---------------------
 				--shift
-				text = string.gsub(text, "(s%-)", "S")
+				text = string.gsub(text, "(s%-)", "s")
 				--alt
-				text = string.gsub(text, "(a%-)", "A")
+				text = string.gsub(text, "(a%-)", "a")
 				--ctrl
-				text = string.gsub(text, "(c%-)", "C")
+				text = string.gsub(text, "(c%-)", "c")
 				---------------------
 				--Mouse-Buttons
 				---------------------
