@@ -1,0 +1,3 @@
+## Interface: 100002
+## Title: HotKey Text Changer
+core.lua
